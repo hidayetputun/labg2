@@ -1,0 +1,15 @@
+---
+title: "index"
+output: html_document
+date: "2024-11-03"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Hidayet Putun
+PhD Student
+University of Massachusetts Amherst
+Molecular and Cellular Biology Program
+
